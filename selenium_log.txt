@@ -1,0 +1,268 @@
+2025-04-13 23:13:59,805 - INFO - HTTP Status Code: 200
+2025-04-13 23:14:12,185 - INFO - Page Load Time: 12.38 seconds
+2025-04-13 23:14:22,464 - ERROR - Error during automation: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A2A75335+78597]
+	GetHandleVerifier [0x00007FF7A2A75390+78688]
+	(No symbol) [0x00007FF7A28291AA]
+	(No symbol) [0x00007FF7A287F149]
+	(No symbol) [0x00007FF7A287F3FC]
+	(No symbol) [0x00007FF7A28D2467]
+	(No symbol) [0x00007FF7A28A712F]
+	(No symbol) [0x00007FF7A28CF2BB]
+	(No symbol) [0x00007FF7A28A6EC3]
+	(No symbol) [0x00007FF7A28703F8]
+	(No symbol) [0x00007FF7A2871163]
+	GetHandleVerifier [0x00007FF7A2D1EEED+2870973]
+	GetHandleVerifier [0x00007FF7A2D19698+2848360]
+	GetHandleVerifier [0x00007FF7A2D36973+2967875]
+	GetHandleVerifier [0x00007FF7A2A9017A+188746]
+	GetHandleVerifier [0x00007FF7A2A9845F+222255]
+	GetHandleVerifier [0x00007FF7A2A7D2B4+111236]
+	GetHandleVerifier [0x00007FF7A2A7D462+111666]
+	GetHandleVerifier [0x00007FF7A2A63589+5465]
+	BaseThreadInitThunk [0x00007FFAA90F259D+29]
+	RtlUserThreadStart [0x00007FFAAA70AF38+40]
+
+2025-04-13 23:16:14,848 - INFO - HTTP Status Code: 200
+2025-04-13 23:16:24,499 - INFO - Page Load Time: 9.65 seconds
+2025-04-13 23:16:34,778 - ERROR - Error during automation: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A2A75335+78597]
+	GetHandleVerifier [0x00007FF7A2A75390+78688]
+	(No symbol) [0x00007FF7A28291AA]
+	(No symbol) [0x00007FF7A287F149]
+	(No symbol) [0x00007FF7A287F3FC]
+	(No symbol) [0x00007FF7A28D2467]
+	(No symbol) [0x00007FF7A28A712F]
+	(No symbol) [0x00007FF7A28CF2BB]
+	(No symbol) [0x00007FF7A28A6EC3]
+	(No symbol) [0x00007FF7A28703F8]
+	(No symbol) [0x00007FF7A2871163]
+	GetHandleVerifier [0x00007FF7A2D1EEED+2870973]
+	GetHandleVerifier [0x00007FF7A2D19698+2848360]
+	GetHandleVerifier [0x00007FF7A2D36973+2967875]
+	GetHandleVerifier [0x00007FF7A2A9017A+188746]
+	GetHandleVerifier [0x00007FF7A2A9845F+222255]
+	GetHandleVerifier [0x00007FF7A2A7D2B4+111236]
+	GetHandleVerifier [0x00007FF7A2A7D462+111666]
+	GetHandleVerifier [0x00007FF7A2A63589+5465]
+	BaseThreadInitThunk [0x00007FFAA90F259D+29]
+	RtlUserThreadStart [0x00007FFAAA70AF38+40]
+
+2025-04-13 23:16:44,762 - INFO - HTTP Status Code: 200
+2025-04-13 23:16:49,729 - INFO - Page Load Time: 4.96 seconds
+2025-04-13 23:17:05,438 - ERROR - Error during automation: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A2A75335+78597]
+	GetHandleVerifier [0x00007FF7A2A75390+78688]
+	(No symbol) [0x00007FF7A28291AA]
+	(No symbol) [0x00007FF7A287F149]
+	(No symbol) [0x00007FF7A287F3FC]
+	(No symbol) [0x00007FF7A28D2467]
+	(No symbol) [0x00007FF7A28A712F]
+	(No symbol) [0x00007FF7A28CF2BB]
+	(No symbol) [0x00007FF7A28A6EC3]
+	(No symbol) [0x00007FF7A28703F8]
+	(No symbol) [0x00007FF7A2871163]
+	GetHandleVerifier [0x00007FF7A2D1EEED+2870973]
+	GetHandleVerifier [0x00007FF7A2D19698+2848360]
+	GetHandleVerifier [0x00007FF7A2D36973+2967875]
+	GetHandleVerifier [0x00007FF7A2A9017A+188746]
+	GetHandleVerifier [0x00007FF7A2A9845F+222255]
+	GetHandleVerifier [0x00007FF7A2A7D2B4+111236]
+	GetHandleVerifier [0x00007FF7A2A7D462+111666]
+	GetHandleVerifier [0x00007FF7A2A63589+5465]
+	BaseThreadInitThunk [0x00007FFAA90F259D+29]
+	RtlUserThreadStart [0x00007FFAAA70AF38+40]
+
+2025-04-13 23:20:05,810 - INFO - HTTP Status Code: 200
+2025-04-13 23:20:12,362 - INFO - Page Load Time: 6.55 seconds
+2025-04-13 23:20:42,756 - ERROR - Could not find or click Login button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A2A75335+78597]
+	GetHandleVerifier [0x00007FF7A2A75390+78688]
+	(No symbol) [0x00007FF7A28291AA]
+	(No symbol) [0x00007FF7A287F149]
+	(No symbol) [0x00007FF7A287F3FC]
+	(No symbol) [0x00007FF7A28D2467]
+	(No symbol) [0x00007FF7A28A712F]
+	(No symbol) [0x00007FF7A28CF2BB]
+	(No symbol) [0x00007FF7A28A6EC3]
+	(No symbol) [0x00007FF7A28703F8]
+	(No symbol) [0x00007FF7A2871163]
+	GetHandleVerifier [0x00007FF7A2D1EEED+2870973]
+	GetHandleVerifier [0x00007FF7A2D19698+2848360]
+	GetHandleVerifier [0x00007FF7A2D36973+2967875]
+	GetHandleVerifier [0x00007FF7A2A9017A+188746]
+	GetHandleVerifier [0x00007FF7A2A9845F+222255]
+	GetHandleVerifier [0x00007FF7A2A7D2B4+111236]
+	GetHandleVerifier [0x00007FF7A2A7D462+111666]
+	GetHandleVerifier [0x00007FF7A2A63589+5465]
+	BaseThreadInitThunk [0x00007FFAA90F259D+29]
+	RtlUserThreadStart [0x00007FFAAA70AF38+40]
+
+2025-04-13 23:23:19,983 - INFO - HTTP Status Code: 200
+2025-04-13 23:23:24,794 - INFO - Page Load Time: 4.81 seconds
+2025-04-13 23:23:35,087 - ERROR - Could not find or click Login button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7A2A75335+78597]
+	GetHandleVerifier [0x00007FF7A2A75390+78688]
+	(No symbol) [0x00007FF7A28291AA]
+	(No symbol) [0x00007FF7A287F149]
+	(No symbol) [0x00007FF7A287F3FC]
+	(No symbol) [0x00007FF7A28D2467]
+	(No symbol) [0x00007FF7A28A712F]
+	(No symbol) [0x00007FF7A28CF2BB]
+	(No symbol) [0x00007FF7A28A6EC3]
+	(No symbol) [0x00007FF7A28703F8]
+	(No symbol) [0x00007FF7A2871163]
+	GetHandleVerifier [0x00007FF7A2D1EEED+2870973]
+	GetHandleVerifier [0x00007FF7A2D19698+2848360]
+	GetHandleVerifier [0x00007FF7A2D36973+2967875]
+	GetHandleVerifier [0x00007FF7A2A9017A+188746]
+	GetHandleVerifier [0x00007FF7A2A9845F+222255]
+	GetHandleVerifier [0x00007FF7A2A7D2B4+111236]
+	GetHandleVerifier [0x00007FF7A2A7D462+111666]
+	GetHandleVerifier [0x00007FF7A2A63589+5465]
+	BaseThreadInitThunk [0x00007FFAA90F259D+29]
+	RtlUserThreadStart [0x00007FFAAA70AF38+40]
+
+2025-04-13 23:31:22,332 - INFO - HTTP Status Code: 200
+2025-04-13 23:31:30,755 - INFO - Page Load Time: 8.42 seconds
+2025-04-13 23:31:30,987 - INFO - Successfully clicked the Login button.
+2025-04-13 23:31:50,750 - INFO - HTTP Status Code: 200
+2025-04-13 23:31:57,989 - INFO - Page Load Time: 7.24 seconds
+2025-04-13 23:31:58,152 - INFO - Successfully clicked the Login button.
+2025-04-13 23:33:12,338 - INFO - HTTP Status Code: 200
+2025-04-13 23:33:16,718 - INFO - Page Load Time: 4.38 seconds
+2025-04-13 23:33:16,874 - INFO - Successfully clicked the Login button.
+2025-04-13 23:41:18,827 - INFO - HTTP Status Code: 200
+2025-04-13 23:41:23,581 - INFO - Page Load Time: 4.75 seconds
+2025-04-13 23:41:23,738 - INFO - Successfully clicked the Login button.
+2025-04-13 23:43:22,916 - INFO - HTTP Status Code: 200
+2025-04-13 23:43:31,362 - INFO - Page Load Time: 8.44 seconds
+2025-04-13 23:43:31,519 - INFO - Successfully clicked the Login button.
+2025-04-13 23:44:39,976 - INFO - HTTP Status Code: 200
+2025-04-13 23:44:42,481 - INFO - Page Load Time: 2.50 seconds
+2025-04-13 23:44:42,633 - INFO - Successfully clicked the Login button.
+2025-04-13 23:44:43,628 - INFO - Successfully logged in.
+2025-04-14 22:29:06,992 - INFO - HTTP Status Code: 200
+2025-04-14 22:29:19,444 - INFO - Page Load Time: 12.44 seconds
+2025-04-14 22:29:19,546 - INFO - Clicked the Login button.
+2025-04-14 22:29:21,777 - INFO - Logged in successfully.
+2025-04-14 22:33:24,753 - INFO - HTTP Status Code: 200
+2025-04-14 22:33:38,000 - INFO - Page Load Time: 13.25 seconds
+2025-04-14 22:33:38,061 - INFO - Clicked the Login button.
+2025-04-14 22:34:07,291 - INFO - Logged in successfully.
+2025-04-14 22:36:41,290 - INFO - HTTP Status Code: 200
+2025-04-14 22:36:54,493 - INFO - Page Load Time: 13.20 seconds
+2025-04-14 22:36:54,554 - INFO - Clicked the Login button.
+2025-04-14 22:36:56,765 - INFO - Logged in successfully.
+2025-04-14 22:37:23,465 - INFO - HTTP Status Code: 200
+2025-04-14 22:37:36,921 - INFO - Page Load Time: 13.46 seconds
+2025-04-14 22:37:36,984 - INFO - Clicked the Login button.
+2025-04-14 22:37:41,744 - INFO - Logged in successfully.
+2025-04-14 22:42:09,851 - INFO - HTTP Status Code: 200
+2025-04-14 22:42:21,569 - INFO - Page Load Time: 11.72 seconds
+2025-04-14 22:42:21,625 - INFO - Clicked the Login button.
+2025-04-14 22:42:22,311 - INFO - Logged in successfully.
+2025-04-14 22:42:38,832 - INFO - Cover photo uploaded.
+2025-04-14 22:45:23,021 - INFO - HTTP Status Code: 200
+2025-04-14 22:45:36,680 - INFO - Page Load Time: 13.66 seconds
+2025-04-14 22:45:36,738 - INFO - Clicked the Login button.
+2025-04-14 22:45:37,942 - INFO - Logged in successfully.
+2025-04-14 22:46:00,034 - INFO - Cover photo selected.
+2025-04-14 22:46:00,633 - INFO - Cover photo saved successfully.
+2025-04-14 22:49:40,743 - INFO - HTTP Status Code: 200
+2025-04-14 22:49:51,596 - INFO - Page Load Time: 10.85 seconds
+2025-04-14 22:49:51,657 - INFO - Clicked the Login button.
+2025-04-14 22:49:52,346 - INFO - Logged in successfully.
+2025-04-14 22:50:27,844 - INFO - Cover photo selected.
+2025-04-14 22:50:29,469 - INFO - Cover photo saved successfully.
+2025-04-14 22:53:53,248 - INFO - HTTP Status Code: 200
+2025-04-14 22:54:06,971 - INFO - Page Load Time: 13.72 seconds
+2025-04-14 22:54:07,031 - INFO - Clicked the Login button.
+2025-04-14 22:54:07,729 - INFO - Logged in successfully.
+2025-04-14 22:54:46,909 - INFO - Cover photo selected.
+2025-04-14 22:54:48,534 - INFO - Cover photo saved successfully.
+2025-04-14 22:58:07,545 - INFO - HTTP Status Code: 200
+2025-04-14 22:58:33,738 - INFO - Page Load Time: 26.19 seconds
+2025-04-14 22:58:33,803 - INFO - Clicked the Login button.
+2025-04-14 22:58:34,505 - INFO - Logged in successfully.
+2025-04-14 22:59:28,048 - INFO - Cover photo selected.
+2025-04-14 22:59:28,652 - INFO - Cover photo saved successfully.
+2025-04-14 23:01:49,524 - INFO - HTTP Status Code: 200
+2025-04-14 23:02:20,760 - INFO - Page Load Time: 31.24 seconds
+2025-04-14 23:02:20,820 - INFO - Clicked the Login button.
+2025-04-14 23:02:23,037 - INFO - Logged in successfully.
+2025-04-14 23:02:57,171 - INFO - Cover photo selected.
+2025-04-14 23:02:58,294 - INFO - Cover photo saved successfully.
+2025-04-14 23:02:58,350 - INFO - Clicked outside to close the popup.
+2025-04-14 23:06:03,443 - INFO - HTTP Status Code: 200
+2025-04-14 23:06:45,133 - INFO - Page Load Time: 41.69 seconds
+2025-04-14 23:06:45,191 - INFO - Clicked the Login button.
+2025-04-14 23:06:45,875 - INFO - Logged in successfully.
+2025-04-14 23:08:00,908 - INFO - Cover photo selected.
+2025-04-14 23:08:01,510 - INFO - Cover photo saved successfully.
+2025-04-14 23:08:01,559 - INFO - Cover photo popup closed successfully.
+2025-04-14 23:08:02,768 - INFO - Successfully clicked the Save button.
+2025-04-14 23:08:02,769 - INFO - Bio information updated successfully.
+2025-04-14 23:08:54,792 - INFO - HTTP Status Code: 200
+2025-04-14 23:09:18,274 - INFO - Page Load Time: 23.48 seconds
+2025-04-14 23:09:18,333 - INFO - Clicked the Login button.
+2025-04-14 23:10:03,448 - INFO - HTTP Status Code: 200
+2025-04-14 23:10:17,711 - INFO - Page Load Time: 14.26 seconds
+2025-04-14 23:10:17,772 - INFO - Clicked the Login button.
+2025-04-14 23:10:18,964 - INFO - Logged in successfully.
+2025-04-14 23:10:35,577 - INFO - Cover photo selected.
+2025-04-14 23:10:36,199 - INFO - Cover photo saved successfully.
+2025-04-14 23:10:36,271 - INFO - Cover photo popup closed successfully.
+2025-04-14 23:18:43,230 - INFO - HTTP Status Code: 200
+2025-04-14 23:19:07,951 - INFO - Page Load Time: 24.72 seconds
+2025-04-14 23:19:08,026 - INFO - Clicked the Login button.
+2025-04-14 23:20:28,212 - INFO - HTTP Status Code: 200
+2025-04-14 23:20:41,669 - INFO - Page Load Time: 13.46 seconds
+2025-04-14 23:20:41,726 - INFO - Clicked the Login button.
+2025-04-14 23:20:42,419 - INFO - Logged in successfully.
+2025-04-14 23:21:19,210 - INFO - Cover photo selected.
+2025-04-14 23:21:19,814 - INFO - Cover photo saved successfully.
+2025-04-14 23:21:19,862 - INFO - Cover photo popup closed successfully.
+2025-04-14 23:21:21,079 - INFO - Successfully clicked the Save button.
+2025-04-14 23:21:21,079 - INFO - Bio information updated successfully.
+2025-04-14 23:27:17,483 - INFO - HTTP Status Code: 200
+2025-04-14 23:27:30,815 - INFO - Page Load Time: 13.33 seconds
+2025-04-14 23:27:30,873 - INFO - Clicked the Login button.
+2025-04-14 23:27:31,557 - INFO - Logged in successfully.
+2025-04-15 08:53:53,409 - INFO - HTTP Status Code: 200
+2025-04-15 08:54:05,332 - INFO - Page Load Time: 11.92 seconds
+2025-04-15 08:54:05,421 - INFO - Clicked the Login button.
+2025-04-15 08:54:06,236 - INFO - Logged in successfully.
+2025-04-15 08:56:44,961 - INFO - HTTP Status Code: 200
+2025-04-15 08:56:51,918 - INFO - Page Load Time: 6.95 seconds
+2025-04-15 08:56:52,068 - INFO - Clicked the Login button.
+2025-04-15 08:56:53,049 - INFO - Logged in successfully.
+2025-04-15 08:57:43,240 - INFO - Cover photo selected.
+2025-04-15 08:57:43,959 - INFO - Cover photo saved successfully.
+2025-04-15 08:57:44,974 - INFO - Post-save HTTP Status Code: 200
+2025-04-15 08:57:45,085 - INFO - Cover photo popup closed successfully.
+2025-04-15 08:57:46,610 - INFO - Successfully clicked the Save button.
+2025-04-15 08:57:46,613 - INFO - Bio information updated successfully.
+2025-04-15 09:01:15,211 - INFO - HTTP Status Code: 200
+2025-04-15 09:01:23,280 - INFO - Page Load Time: 8.07 seconds
+2025-04-15 09:01:23,608 - INFO - Clicked the Login button.
+2025-04-15 09:01:24,663 - INFO - Logged in successfully.
+2025-04-15 09:02:20,298 - INFO - HTTP Status Code: 200
+2025-04-15 09:02:29,011 - INFO - Page Load Time: 8.71 seconds
+2025-04-15 09:02:29,155 - INFO - Clicked the Login button.
+2025-04-15 09:02:30,692 - INFO - Logged in successfully.
+2025-04-15 09:03:40,509 - INFO - HTTP Status Code: 200
+2025-04-15 09:03:47,182 - INFO - Page Load Time: 6.67 seconds
+2025-04-15 09:03:47,331 - INFO - Clicked the Login button.
+2025-04-15 09:03:48,293 - INFO - Logged in successfully.
+2025-04-15 09:04:31,844 - INFO - Cover photo selected.
+2025-04-15 09:04:32,542 - INFO - Cover photo saved successfully.
+2025-04-15 09:04:33,511 - INFO - Post-save HTTP Status Code: 200
+2025-04-15 09:04:33,656 - INFO - Cover photo popup closed successfully.
+2025-04-15 09:04:35,153 - INFO - Successfully clicked the Save button.
+2025-04-15 09:04:35,154 - INFO - Bio information updated successfully.
