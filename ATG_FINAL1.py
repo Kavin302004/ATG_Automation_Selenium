@@ -36,8 +36,8 @@ try:
     login_btn.click()
     logging.info("Clicked the Login button.")
 
-    WebDriverWait(driver, 30).until(EC.element_to_be_clickable((By.ID, "email_landing"))).send_keys("revansword@gmail.com")
-    WebDriverWait(driver, 30).until(EC.element_to_be_clickable((By.ID, "password_landing"))).send_keys("butterflysky123")
+    WebDriverWait(driver, 30).until(EC.element_to_be_clickable((By.ID, "email_landing"))).send_keys("autotest@yopmail.com")
+    WebDriverWait(driver, 30).until(EC.element_to_be_clickable((By.ID, "password_landing"))).send_keys("Pass@123")
     WebDriverWait(driver, 30).until(EC.element_to_be_clickable((By.CLASS_NAME, "landing-signin-btn"))).click()
     logging.info("Logged in successfully.")
 
